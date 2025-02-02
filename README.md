@@ -48,7 +48,8 @@
 <h3 align="left">Distros I'm familiar with</h3>
 <div align="left">
   <ul>
-    <li>Arch linux</li>
+    <li>Arch</li>
     <li>Ubuntu and Xubuntu</li>
+    <li>Mint</li>
   </ul>
 </div>
