@@ -7,7 +7,7 @@
 <li>University: RTU MIREA (2024-...)</li>
 <li>Timezone: GMT+3</li>
 <li>Likes: calculus, chatting, Zenless Zone Zero</li>
-<li>I speak: 🇷🇺 (native), 🇬🇧 (B2-C1), 🇫🇷 (A1)</li>
+<li>I speak: 🇷🇺 (native), 🇬🇧 (B2-C1), 🇫🇷 (A2)</li>
 <li>Currently goes through <a href="https://www.theodinproject.com" target="_blank">The Odin Project</a> curriculum.</li>
 </ul>
 <i>If you're my future employer, it's my pleasure to serve you</i> 👔.
