@@ -13,6 +13,8 @@
 <i>If you're my future employer, it's my pleasure to serve you</i> 👔.
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vladcheck&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h2 align="center">My stack</h2>
 
 <div align="center">
