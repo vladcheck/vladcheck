@@ -1,22 +1,26 @@
 <h1 align="left">Hey! Vlad is here!</h1>
 
-<p align="left">My name is Vladimir and I'm an aspiring <i>fullstack</i> developer. Let's have a quick introduction:
-<ul>
-<li>Age: 18</li>
-<li>Place: Russia, Moscow</li>
-<li>University: RTU MIREA (2024-2028)</li>
-<li>Timezone: GMT+3</li>
-<li>Likes: calculus, chatting, Zenless Zone Zero</li>
-<li>I speak: 🇷🇺 (native), 🇬🇧 (B2-C1), 🇫🇷 (A2)</li>
-<li>Currently goes through <a href="https://www.theodinproject.com" target="_blank">The Odin Project</a> curriculum.</li>
-</ul>
-<i>If you're my future employer, it's my pleasure to serve you</i> 👔.
-</p>
+<div align="left">My name is Vladimir and I'm an aspiring <i>fullstack</i> developer. Let's have a quick introduction:
+  <ul>
+    <li>Age: 18</li>
+    <li>Place: Russia, Moscow</li>
+    <li>University: RTU MIREA (2024-2028)</li>
+    <li>Timezone: GMT+3</li>
+    <li>Likes: calculus, chatting, Zenless Zone Zero</li>
+    <li>I speak: 🇷🇺 (native), 🇬🇧 (B2-C1), 🇫🇷 (A2)</li>
+    <li>Currently goes through <a href="https://www.theodinproject.com" target="_blank">The Odin Project</a> curriculum.</li>
+  </ul>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+    
+  [![trophy](https://github-profile-trophy.vercel.app/?username=vladcheck&theme=gruvbox&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcheck" />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vladcheck&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <i>If you're my future employer, it's my pleasure to serve you</i> 👔.
+</div>
+
 
 <h2 align="center">My stack</h2>
-
 <div align="center">
   <h3 >Languages and CLIs</h3>
   <div>
