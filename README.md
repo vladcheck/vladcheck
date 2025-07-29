@@ -77,6 +77,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="64" alt="ubuntu logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xubuntu/xubuntu-original.svg" height="64" alt="xubuntu logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mint/mint-original.svg" height="64" alt="mint logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="64" alt="centos logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/almalinux/almalinux-original.svg" height="64" alt="almalinux logo"  />
   </div>
 </div>
