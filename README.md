@@ -12,7 +12,6 @@
   </ul>
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
     
-  [![trophy](https://github-profile-trophy.vercel.app/?username=vladcheck&theme=gruvbox&column=5)](https://github.com/ryo-ma/github-profile-trophy)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcheck" />
 </div>
 
