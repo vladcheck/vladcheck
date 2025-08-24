@@ -70,13 +70,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="64" alt="webpack logo"  />
   </div>
   
-  <h3 >Distros I'm familiar with</h3>
-  <div >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="64" alt="arch logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="64" alt="debian logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="64" alt="ubuntu logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xubuntu/xubuntu-original.svg" height="64" alt="xubuntu logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mint/mint-original.svg" height="64" alt="mint logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/almalinux/almalinux-original.svg" height="64" alt="almalinux logo"  />
+  <h3 >Distros I've worked with</h3>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="48" alt="arch logo" />
+    <img src="https://i.postimg.cc/cCZNjJcG/endeavouros-3242118031.png" height="48" alt="EndeavourOS logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="48" alt="debian logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="48" alt="ubuntu logo"  />
+    <img src="https://i.postimg.cc/brjCR4bf/Xubuntu-logo-3167030543.png" height="48" alt="xubuntu logo"  />
+    <img src="https://i.postimg.cc/xCGy98kB/OIP-74335425.jpg" height="48" alt="mint logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/almalinux/almalinux-original.svg" height="48" alt="almalinux logo"  />
   </div>
 </div>
