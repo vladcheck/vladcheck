@@ -10,12 +10,9 @@
     <li>I speak: 🇷🇺 (native), 🇬🇧 (B2-C1), 🇫🇷 (A2)</li>
     <li>Currently goes through <a href="https://www.theodinproject.com" target="_blank">The Odin Project</a> curriculum.</li>
   </ul>
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcheck" />
-</div>
-
-  <i>If you're my future employer, it's my pleasure to serve you</i> 👔.
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcheck" />
+  </div>
 </div>
 
 
