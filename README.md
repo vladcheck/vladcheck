@@ -11,7 +11,7 @@
     <li>Currently goes through <a href="https://www.theodinproject.com" target="_blank">The Odin Project</a> curriculum.</li>
   </ul>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcheck" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladcheck" /> -->
   </div>
 </div>
 
