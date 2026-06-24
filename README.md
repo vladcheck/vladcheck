@@ -21,15 +21,11 @@
   
   <h3>Languages and frameworks</h3>
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64" alt="javascript logo"  />
-    <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="64" alt="typescript logo"  />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="64" alt="html5 logo"  />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="64" alt="css3 logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="64" alt="nextjs logo"  />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="64" alt="nodejs logo"  />
     <img width="8" />
