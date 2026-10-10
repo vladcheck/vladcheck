@@ -31,39 +31,24 @@
     <img width="8" />
   </div>
   
-  <h3>Libraries</h3>
+  <h3>Libraries and tools</h3>
   <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" alt="sass logo"  />
+    <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="54" alt="vitest logo"  />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="54" alt="react logo"  />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" height="54" alt="react router logo"  />
-  </div>
-  
-  <h3>Build tools</h3>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="48" alt="vitejs logo" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="48" alt="webpack logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="48" alt="vitejs logo" />
   </div>
 
-  <h3>Misc</h3>
-   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" alt="sass logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="48" alt="redis logo" />
+  <h3>CI/CD</h3>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="48" alt="gitlab logo"  />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="docker logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="48" alt="markdown logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" height="48" alt="yaml logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="48" alt="json logo" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="48" alt="bash logo" />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />
   </div>
